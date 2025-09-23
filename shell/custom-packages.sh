@@ -46,3 +46,5 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-homeproxy-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-taskplan luci-i18n-taskplan-zh-cn"
 # Easytier
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
+# 网盘
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-openlist luci-i18n-openlist-zh-cn" 
